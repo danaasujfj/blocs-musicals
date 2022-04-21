@@ -42,6 +42,3 @@ input.onButtonPressed(Button.A, function () {
     music.playTone(294, music.beat(BeatFraction.Whole))
     music.playTone(294, music.beat(BeatFraction.Double))
 })
-basic.forever(function () {
-	
-})
